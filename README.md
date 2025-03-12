@@ -13,8 +13,8 @@ Depth perception model trained on [NYU depth dataset](https://www.kaggle.com/dat
 Predictions and dataset comparison plots. Odd numbered columns are the original data, even numbered columns are the model predictions.
 
 <span>
-    <img src="./predictions/model-predictions-train.png" height=450>
-    <img src="./predictions/model-predictions-train.png" height=450>
+    <img src="./predictions/model-predictions-train.png" height=380>
+    <img src="./predictions/model-predictions-train.png" height=380>
 </span>
 
 ### Unseen data
